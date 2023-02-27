@@ -18,7 +18,7 @@ My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant
 <a href="https://stackoverflow.com/users/16007730/toniohk" target="_blank">
   <img src=https://img.shields.io/badge/stack%20overflow-%23f47f24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/tonio-hiraki-b24991225" target="_blank">
+<a href="https://www.linkedin.com/in/tonio-hiraki" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@toniohiraki" target="_blank">
