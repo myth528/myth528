@@ -13,7 +13,7 @@ My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant
   <img src=https://img.shields.io/badge/telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/YzVZs9aP" target="_blank">
-  <img src=https://img.shields.io/badge/discord-%2300aff0.svg?&style=for-the-badge&logo=skype&logoColor=white alt=discord style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/16007730/myth528" target="_blank">
   <img src=https://img.shields.io/badge/stack%20overflow-%23f47f24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
