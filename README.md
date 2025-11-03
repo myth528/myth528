@@ -1,9 +1,11 @@
 <h2 align="left">About me</h2>
 
 <p>
-I'm a full stack software engineer who specialized in web and blockchain.
+Creative full-stack web developer with 10+ years of experience delivering modern web applications enhanced with AI capabilities.
 <br>
-My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant UI/UX, modern front-end frameworks, scalable microservices, infrastructure modeling, smart contracts, cryptocurrency and AWS.
+Expert in designing and deploying AI agents—including chatbots, recommendation systems, and predictive models—to improve user engagement, automate workflows, and drive business impact.
+<br>
+Strong background in front-end and back-end technologies, cloud solutions, and scalable AI integration.
 </p>
 <div align="center">
 <a href="mailto:topintel25@gmail.com" target="_blank">
@@ -15,7 +17,7 @@ My expertise lies in building the Websites, Hybrid apps, Dapp, Defi with elegant
 <a href="https://discord.gg/YzVZs9aP" target="_blank">
   <img src=https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/16007730/myth528" target="_blank">
+<a href="https://stackoverflow.com/users/16007730/myth" target="_blank">
   <img src=https://img.shields.io/badge/stack%20overflow-%23f47f24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/myth528" target="_blank">
