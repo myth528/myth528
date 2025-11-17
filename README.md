@@ -1,11 +1,11 @@
 <h2 align="left">About me</h2>
 
 <p>
-Creative full-stack web developer with 10+ years of experience delivering modern web applications enhanced with AI capabilities.
+Creative full-stack web developer with 10+ years experience building MVPs and SaaS platforms for startups in Healthcare and Real Estate, with a strong focus on AI integration.
 <br>
-Expert in designing and deploying AI agents—including chatbots, recommendation systems, and predictive models—to improve user engagement, automate workflows, and drive business impact.
+Experienced in implementing predictive analytics, recommendation engines, intelligent automation, and AI-powered search to optimize user engagement and streamline workflows.
 <br>
-Strong background in front-end and back-end technologies, cloud solutions, and scalable AI integration.
+Known for delivering rapid prototypes, scalable web apps, and secure cloud-based solutions that accelerate growth.
 </p>
 <div align="center">
 <a href="mailto:topintel25@gmail.com" target="_blank">
