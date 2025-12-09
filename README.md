@@ -1,7 +1,7 @@
 <h2 align="left">About me</h2>
 
 <p>
-Creative full-stack web developer with 10+ years experience building MVPs and SaaS platforms for startups in Healthcare and Real Estate, with a strong focus on AI integration.
+Creative full-stack web developer with 10+ years experience building MVPs and SaaS platforms for Startups, with a strong focus on AI integration.
 <br>
 Experienced in implementing predictive analytics, recommendation engines, intelligent automation, and AI-powered search to optimize user engagement and streamline workflows.
 <br>
