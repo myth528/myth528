@@ -32,7 +32,7 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 </a>
 </div>
 
-[![](https://komarev.com/ghpvc/?username=myth528&color=000000)](https://github.com/myth528?tab=repositories)
+<br>
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
