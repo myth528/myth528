@@ -2,11 +2,11 @@
 ### About Me 👋
 
 <p>
-Creative full-stack web developer with 10+ years experience building MVPs and SaaS platforms for Startups, with a strong focus on AI integration.
+Creative full-stack web developer with 10+ years of experience delivering modern web applications enhanced with AI capabilities.
 <br>
-Experienced in implementing predictive analytics, recommendation engines, intelligent automation, and AI-powered search to optimize user engagement and streamline workflows.
+Expert in designing and deploying AI agents including chatbots, recommendation systems, and predictive models to improve user engagement, automate workflows, and drive business impact.
 <br>
-Known for delivering rapid prototypes, scalable web apps, and secure cloud-based solutions that accelerate growth.
+Strong background in front-end and back-end technologies, cloud solutions, and scalable AI integration.
 </p>
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
