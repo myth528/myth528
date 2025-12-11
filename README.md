@@ -2,11 +2,11 @@
 ### About Me 👋
 
 <p>
-Creative full-stack web developer with 10+ years of experience delivering modern web applications enhanced with AI capabilities.
+Creative full-stack developer with 10+ years of experience building modern, scalable web applications.
 <br>
-Expert in designing and deploying AI agents including chatbots, recommendation systems, and predictive models to improve user engagement, automate workflows, and drive business impact.
+Specializing in integrating AI from conversational agents to recommendation systems and predictive models to enhance user experience and automate complex workflows.
 <br>
-Strong background in front-end and back-end technologies, cloud solutions, and scalable AI integration.
+Skilled across front-end, back-end, and cloud architectures, with a focus on delivering practical, high-impact solutions.
 </p>
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
