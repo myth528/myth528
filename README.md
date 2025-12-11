@@ -1,5 +1,5 @@
 ![myth528_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
-### Hi there 👋
+### About Me 👋
 
 <p>
 Creative full-stack web developer with 10+ years experience building MVPs and SaaS platforms for Startups, with a strong focus on AI integration.
@@ -10,6 +10,7 @@ Known for delivering rapid prototypes, scalable web apps, and secure cloud-based
 </p>
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
+<br><br>
 
 <div align="center">
 <a href="mailto:topintel25@gmail.com" target="_blank">
